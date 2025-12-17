@@ -42,5 +42,5 @@ My primary interest is developing maintainable web applications with clean archi
 </tr></table>
 
 ## Github Stats:
-![Top Langs](https://github-readme-stats-ten-sigma-55.vercel.app/api/top-langs/?username=DusanSl&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-ten-sigma-55.vercel.app/api/top-langs/?username=DusanSl&theme=github_dark&size_weight=0.5&count_weight=0.5)
 
