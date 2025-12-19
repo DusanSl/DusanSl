@@ -1,4 +1,4 @@
-## :man_technologist: About Me
+## 👨‍💻 About Me
 
 I am a student focused on full-stack web development, building real-world projects to strengthen my skills in both frontend and backend technologies.  
 My primary interest is developing maintainable web applications with clean architecture and well-structured code.
