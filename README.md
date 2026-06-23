@@ -44,7 +44,7 @@ database optimization, and fuzzy logic systems.
 ### Tools
 <a href="https://github.com/DusanSl">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github&perline=2" /> 
+       <img src="https://skillicons.dev/icons?i=git,github&perline=3" /> 
 </div>
 </a>
 
