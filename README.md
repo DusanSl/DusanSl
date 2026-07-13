@@ -9,7 +9,7 @@ database optimization, and fuzzy logic systems.
 |---|---|
 | [MyCineList](https://my-cine-list.vercel.app) | Full-stack movie & TV tracker |
 | [Data Tournament](http://datatournament.somee.com) | Football tournament manager |
-| [Inbox Guard](https://dusan86.pythonanywhere.com) | Fuzzy logic spam detector |
+| [Fuzzy Guard](https://dusan86.pythonanywhere.com) | Fuzzy logic spam detector |
 
 ## Skill Set
 <table><tr><td valign="top" width="20%">
